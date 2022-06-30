@@ -27,3 +27,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 *Esto* es un _texto_
 
+# Hola mundo
+Esto es una prueba de otro usuario
